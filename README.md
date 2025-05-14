@@ -1,6 +1,6 @@
-# Patagonia Playground
+# 🐧 Patagonia Playground
 
-🐧 Educational 3D coding playground guided by a Patagonian Gentoo penguin.
+Educational 3D coding playground guided by a Patagonian Gentoo penguin.
 
 ## 🌟 Inspirations
 
