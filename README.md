@@ -14,6 +14,10 @@ Educational 3D coding playground guided by a Patagonian Gentoo penguin.
 - [CSS Grid Garden](https://cssgridgarden.com/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 - [CSS Dinner](https://flukeout.github.io/)
+- Robozzle
+  - https://github.com/alexanderson1993/robozzle-react?tab=readme-ov-file
+  - https://www.robozzle.com/beta/
+- [LightBot](https://lightbot.com/)
   
 ## 🧰 Tools
 
