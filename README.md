@@ -33,9 +33,11 @@ Educational 3D coding playground guided by a Patagonian Gentoo penguin.
 ### AI Tools
 - [TRELLIS.2](https://microsoft.github.io/TRELLIS.2/)
 - [Meta SAM](https://aidemos.meta.com/segment-anything/editor/convert-body-to-3d)
+  - https://youtu.be/Z6VwZE0UbKE
 - [Hunyuan 3D Model 2.1](https://hunyuan.tencent.com/3d?currentTab=3)
   - https://youtu.be/yDWj3UJY0RA
 - [HY-Motion1.0](https://hunyuan.tencent.com/motion?tabIndex=0)
   - https://youtu.be/wLgienUkGV8
   - https://youtu.be/nDlMBCO8Np8
   - https://youtu.be/3lKK0PXe99w
+-
