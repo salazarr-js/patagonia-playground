@@ -29,4 +29,10 @@ Educational 3D coding playground guided by a Patagonian Gentoo penguin.
 ### 📝 Editors
 - [Monaco](https://microsoft.github.io/monaco-editor/)
 - [Code Mirror](https://codemirror.net/)
-- 
+
+### AI Tools
+- [Hunyuan 3D Model 2.1](https://hunyuan.tencent.com/3d?currentTab=3)
+- [HY-Motion1.0](https://hunyuan.tencent.com/motion?tabIndex=0)
+  - https://youtu.be/wLgienUkGV8
+  - https://youtu.be/nDlMBCO8Np8
+  - https://youtu.be/3lKK0PXe99w
