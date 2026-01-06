@@ -31,6 +31,7 @@ Educational 3D coding playground guided by a Patagonian Gentoo penguin.
 - [Code Mirror](https://codemirror.net/)
 
 ### AI Tools
+- [TRELLIS.2](https://microsoft.github.io/TRELLIS.2/)
 - [Hunyuan 3D Model 2.1](https://hunyuan.tencent.com/3d?currentTab=3)
   - https://youtu.be/yDWj3UJY0RA
 - [HY-Motion1.0](https://hunyuan.tencent.com/motion?tabIndex=0)
