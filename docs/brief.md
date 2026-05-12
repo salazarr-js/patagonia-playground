@@ -1,4 +1,3 @@
-````markdown
 # 🐧 Proyecto — Juego Voxel de Pingüinos en Three.js
 
 ## 🎮 Idea General
