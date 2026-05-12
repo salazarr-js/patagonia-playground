@@ -2,6 +2,8 @@
 
 Educational 3D coding playground guided by a Patagonian Gentoo penguin.
 
+<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/fd49f975-3026-4874-870c-c01c1f22698f" />
+
 ## 🌟 Inspirations
 
 ### 🖥️ Platforms
